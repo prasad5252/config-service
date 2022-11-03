@@ -14,7 +14,6 @@
 	<name>config-server</name>
 	<description>config server for all micro-service config</description>
 	<properties>
-		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.4</spring-cloud.version>
 	</properties>
 	<dependencies>
